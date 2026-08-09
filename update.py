@@ -1,6 +1,6 @@
 import requests
 
-SOURCE_URL = https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/refs/heads/main/playlist.m3u
+SOURCE_URL = "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/refs/heads/main/playlist.m3u"
 PLAYLIST_FILE = "playlist.m3u"
 
 
