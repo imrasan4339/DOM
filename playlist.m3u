@@ -33697,3 +33697,94 @@ https://cdn3.zohanayaan.com:1686/hls/skystennis.m3u8?md5=STiKepJt0EG45NAmvbUKzg&
 https://cdn1.zohanayaan.com:1686/hls/fox501.m3u8?md5=9k2odJN5saOAuFVxd7YrIQ&expires=1788938277
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1000173192-modified.png" group-title="Sports",Sony Sports3
 https://cdn5.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=Nx2JlvihC1l6qM4xkNWIaA&expires=1788938278
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434893656794_eng_vs_pak_3test_D1_live_landscape_thumb.jpg" group-title="Live Event", Day 1 - 3rd Test - 9 Sep 2026 [ENG] - Pakistan Tour of England 2026
+https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788997968~acl=/*~id=24079759654291429165235429868628~hmac=a0ecd724f686fec84853f8c45d863b59cd7459ba53197a6583b4ff38f7d908df
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023610/1788772468832879_PT20_Mohali-Kings-vs-Bathinda-Royals_landscape_thumb.jpg" group-title="Live Event", Mohali Kings vs Bathinda Royals - 9 Sep 2026 [HIN] - Sher-E-Punjab T20 League
+https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788997968~acl=/*~id=24079759654291429165235429868628~hmac=a0ecd724f686fec84853f8c45d863b59cd7459ba53197a6583b4ff38f7d908df
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023610/1788772468832879_PT20_Mohali-Kings-vs-Bathinda-Royals_landscape_thumb.jpg" group-title="Live Event", Mohali Kings vs Bathinda Royals - 9 Sep 2026 [PAN] - Sher-E-Punjab T20 League
+https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788997968~acl=/*~id=24079759654291429165235429868628~hmac=a0ecd724f686fec84853f8c45d863b59cd7459ba53197a6583b4ff38f7d908df
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="Sports",Star Sports 1
+https://cdn7.zohanayaan.com:1686/hls/star1in.m3u8?md5=a4r8R67WIi_gX7IGAVioGw&expires=1788957084
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png" group-title="Sports",Star Sports 1 Hindi
+https://cdn7.zohanayaan.com:1686/hls/starhindi.m3u8?md5=FZj_5DQBnpgmQRhJjFZ8pw&expires=1788957085
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png" group-title="Sports",PTV Sports
+https://cdn1.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=UGqtv-kFBwJg6dxJYpFQoA&expires=1788957085
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
+https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=EReY_JCxzyBxFGt9AyNnHg&expires=1788957085
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
+https://cdn7.zohanayaan.com:1686/hls/willowextra.m3u8?md5=8oOTQ1O-yRro-ygfGlxCag&expires=1788957085
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/10-by-xfireflix.png" group-title="Sports",Ten Sports
+https://cdn3.zohanayaan.com:1686/hls/tenspk.m3u8?md5=xPKkIKNn8IPix5D5i_6QBg&expires=1788957085
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
+https://cdn5.zohanayaan.com:1686/hls/asportshd.m3u8?md5=JNLQl071UG0btAVGj1DTLg&expires=1788957086
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png" group-title="Sports",Sky Sports Cricket
+https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=fXFbqxBq9HIm7rLAgFmECQ&expires=1788957086
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/18-by-xfireflix.png" group-title="Sports",Sky Sports Main Event
+https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=V81cOBSiGFalllt1zVzptA&expires=1788957086
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="Sports",TNT 1
+https://cdn9.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=vrzh9SAH-9-irbUiajX_Zg&expires=1788957086
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="Sports",TNT 2
+https://cdn7.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=1wJgxApKCcdG6CKDhtDLUg&expires=1788957086
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="Sports",TNT 3
+https://cdn3.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=aQ47-3iM3PynVIFdiaEZPA&expires=1788957086
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="Sports",TNT 4
+https://cdn4.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=nC30nI1ryrqukLR_hJ_Q8A&expires=1788957087
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 1
+https://cdn10.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=d61IbHVoaY4YNp8oK210Rg&expires=1788957087
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 2
+https://cdn6.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=08sxQZ0_ApFptCWIu9gkzA&expires=1788957087
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 3
+https://cdn3.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=q0oqbWs949IZDxjjO653Lw&expires=1788957087
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 4
+https://cdn8.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=5V0w9pGYVx2X0b_sj_BrYA&expires=1788957087
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 5
+https://cdn10.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=xRWJira7pfoCcW1-x7wPXQ&expires=1788957087
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport 6 Nz
+https://cdn5.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=hlvmrZJsUlBOK23W-vKs6g&expires=1788957088
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 7
+https://cdn8.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=zstpnKV50tup2Pt5Jf7aJA&expires=1788957088
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 8
+https://cdn6.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=ayIwPdLdg19WcivNLRj3WA&expires=1788957088
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 9
+https://cdn8.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=3kOjSCbJNwSsKtFTxALsKg&expires=1788957088
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png" group-title="Sports",Sky Cinema
+https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=V81cOBSiGFalllt1zVzptA&expires=1788957086
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829332.png" group-title="Sports",Sky Sports Action
+https://cdn10.zohanayaan.com:1686/hls/skysact.m3u8?md5=FxLe4zCnmWJPJezVAWjffw&expires=1788957088
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008055327.png" group-title="Sports",Sky Sports Golf
+https://cdn9.zohanayaan.com:1686/hls/skysgol.m3u8?md5=XCM0HbveqIkj_g7psfs7Mg&expires=1788957088
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/43-by-xfireflix.png" group-title="Sports",Sky Sports Premier League
+https://cdn3.zohanayaan.com:1686/hls/skysprem.m3u8?md5=2IRrkLXyHbdJX40EEjbhBA&expires=1788957089
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/44-by-xfireflix.png" group-title="Sports",Sky Sports Football
+https://cdn8.zohanayaan.com:1686/hls/skysfott.m3u8?md5=FskyK_AIT8gfYDfLspwY9w&expires=1788957089
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008347584.png" group-title="Sports",Sky Sports Plus
+https://cdn7.zohanayaan.com:1686/hls/skysare.m3u8?md5=XculAIaY4DPd-1I_fAlopQ&expires=1788957089
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008468637.png" group-title="Sports",Sky Sports F1
+https://cdn2.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=BgijC-nTpMRafzetJGnLIA&expires=1788957089
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/19-by-xfireflix.png" group-title="Sports",LaLiGA
+https://cdn9.zohanayaan.com:1686/hls/laligauk.m3u8?md5=6Qi74ByuR2RXXLl_clMLLw&expires=1788957089
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png" group-title="Sports",Premier Sports 1
+https://cdn10.zohanayaan.com:1686/hls/premieruk.m3u8?md5=bA6gdVgX4ppJdTdOLIZNuQ&expires=1788957089
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png" group-title="Sports",Premier Sports 2
+https://cdn3.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=1HPhP7F98V2Q2Yr0lsHrXA&expires=1788957089
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/34-by-xfireflix.png" group-title="Sports",Super Football
+https://cdn7.zohanayaan.com:1686/hls/superfotball.m3u8?md5=mQxRlZNP2bpjcrT0RQ8UOA&expires=1788957090
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008781606.png" group-title="Sports",Super Premier League
+https://cdn5.zohanayaan.com:1686/hls/superpremier.m3u8?md5=rkkyOmkbxXhClsaQ9PofSg&expires=1788957090
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008895589.png" group-title="Sports",Astro Cricket
+https://cdn9.zohanayaan.com:1686/hls/fox501.m3u8?md5=Qgtl441WrZr3KkHStUy8og&expires=1788957090
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png" group-title="Sports",ESPN 1
+https://cdn3.zohanayaan.com:1686/hls/espnusa.m3u8?md5=2d99Y8PSViDxCa75lxc0XA&expires=1788957090
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png" group-title="Sports",ESPN 2
+https://cdn2.zohanayaan.com:1686/hls/espn2.m3u8?md5=eKgKkMQaPlMb83frGBntkg&expires=1788957090
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829327.png" group-title="Sports",Sky Sports Arena
+https://cdn7.zohanayaan.com:1686/hls/skysare.m3u8?md5=XculAIaY4DPd-1I_fAlopQ&expires=1788957089
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/13-by-xfireflix.png" group-title="Sports",Sky Sports Mix
+https://cdn5.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=pZ5s02baQNf5mCZzzS380Q&expires=1788957090
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745009085794.png" group-title="Sports",Sky Sports Tennis
+https://cdn6.zohanayaan.com:1686/hls/skystennis.m3u8?md5=n48tNCCXFK32P98bwtcB1Q&expires=1788957091
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/6-by-xfireflix.png" group-title="Sports",Fox Cricket 501 HD
+https://cdn9.zohanayaan.com:1686/hls/fox501.m3u8?md5=Qgtl441WrZr3KkHStUy8og&expires=1788957090
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1000173192-modified.png" group-title="Sports",Sony Sports3
+https://cdn4.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=EkYJ0ci9fsVc75iL2dB3Ew&expires=1788957091
