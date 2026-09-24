@@ -42010,3 +42010,156 @@ https://cdn8.zohanayaan.com:1686/hls/skystennis.m3u8?md5=8j8dmfQzS5w1J4GM68MWCQ&
 https://cdn3.zohanayaan.com:1686/hls/fox501.m3u8?md5=V-PHpL1hLuRfbrjDynaenw&expires=1790217327
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1000173192-modified.png" group-title="Sports",Sony Sports3
 https://cdn4.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=9NO8r4HOgGYtCx2q0g2Whw&expires=1790217328
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024611/1790212069855305_AG26_Hockey_Mens_Korea_vs_India_live_landscape_thumb.jpg" group-title="Live Event", Republic Of Korea vs India - Hockey - 24 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790273513~acl=/*~id=34405944450184342964660458430902~hmac=58206ff09110fe43e1c68a5edb1dab12c83b20cada185ad0c76b22a8356013bb
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024611/1790212069855305_AG26_Hockey_Mens_Korea_vs_India_live_landscape_thumb.jpg" group-title="Live Event", Republic Of Korea vs India - Hockey - 24 Sep 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790273513~acl=/*~id=34405944450184342964660458430902~hmac=58206ff09110fe43e1c68a5edb1dab12c83b20cada185ad0c76b22a8356013bb
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024611/1790212069855305_AG26_Hockey_Mens_Korea_vs_India_live_landscape_thumb.jpg" group-title="Live Event", Republic Of Korea vs India - Hockey - 24 Sep 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120302/AG_Strea2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790273513~acl=/*~id=34405944450184342964660458430902~hmac=58206ff09110fe43e1c68a5edb1dab12c83b20cada185ad0c76b22a8356013bb
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024611/1790212069855305_AG26_Hockey_Mens_Korea_vs_India_live_landscape_thumb.jpg" group-title="Live Event", Republic Of Korea vs India - Hockey - 24 Sep 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790273513~acl=/*~id=34405944450184342964660458430902~hmac=58206ff09110fe43e1c68a5edb1dab12c83b20cada185ad0c76b22a8356013bb
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024552/1790161238344620_AG26_Mens-Cricket-Hong-Kong-China-vs-Malaysia_landscape_thumb.jpg" group-title="Live Event", Hong Kong,China vs Malaysia - 24 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120299/AG2026_D2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790273513~acl=/*~id=34405944450184342964660458430902~hmac=58206ff09110fe43e1c68a5edb1dab12c83b20cada185ad0c76b22a8356013bb
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png",[BD] Toffee TV
+https://prod-linear-media.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8?edge-cache-token=Expires=1790219883~Starts=1790216283~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=Lqf9Yyhsmv5KNM0XIvqXl2RoCrHjNIaav3p0CHqU-w4xcml8ds-gjbKIL16o3qp0qlWHm6x494A5-ERj1Sj9CA
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/wHLVIJ4B7a1HdMSjaGLJ/posters/83b89557-3ae8-4ca8-8c5d-3c617359c738.png",[BD] NTV
+https://prod-linear-media.toffeelive.com/cdn/live/n_tv/playlist.m3u8?edge-cache-token=Expires=1790219884~Starts=1790216284~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=9toIGCeyWxmR-AMHFQ11swMscOEW7002_JysTbySfNVwWWzI7VZGIXBj7qvUrVvB1Vr8TlMX0F8uiw7VgKMXDA
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png",[BD] Sony Aath
+https://prod-linear-media.toffeelive.com/cdn/live/sonyaath/playlist.m3u8?edge-cache-token=Expires=1790219884~Starts=1790216284~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=9toIGCeyWxmR-AMHFQ11swMscOEW7002_JysTbySfNVwWWzI7VZGIXBj7qvUrVvB1Vr8TlMX0F8uiw7VgKMXDA
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png",[BD] Channel i
+https://prod-linear-media.toffeelive.com/cdn/live/channel_i/playlist.m3u8?edge-cache-token=Expires=1790219885~Starts=1790216285~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=Ym3ExutgyrjK5aJdy43qERosNWN2fa1Dw6ga4EfQ3_yP8PEKAbs6C1eK1NSbgXPcc1nSXi0fxicwTL3n9lKHDg
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/5cwRnZUBtpl-Sbt7wWrN/posters/5779ade3-e9ba-4107-b3da-bae6f891500a.png",[BD] &TV HD
+https://prod-linear-media.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8?edge-cache-token=Expires=1790219888~Starts=1790216288~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=bSAjl9DYLq3VE9Z6Kr1P5EHiJA5pytxeVfgjTb870V8cjsYYREL9hSlnHYEh0KtOrdXfKmAcaArDwEjhES4fCQ
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp",[BD] Sony Entertainment Television
+https://prod-linear-media.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8?edge-cache-token=Expires=1790219889~Starts=1790216289~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=fB2Et2sTGHE8LYBEMAuYOLAREJPULxg9eG6tcXT_QohO-9emxKCLFjCfww1pOuXiUr1jEUu8E1kGv4-XSjIbCw
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png",[BD] Somoy TV
+https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1790219890~Starts=1790216290~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=ezZlup9d7D7Y85D1vz1eDGEnt8W9KmOa7VjPNk7HwA0wkCQ-lNYMGdqBYr-J5Txu6FXWDQAKWZ9rFHJqTuBHBg
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/o3v235oBcqxnFHJBkAdC/posters/159af631-796d-4342-a2a7-c272f32bcd32.png",[BD] Ekhon TV
+https://prod-linear-media.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8?edge-cache-token=Expires=1790219890~Starts=1790216290~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=ezZlup9d7D7Y85D1vz1eDGEnt8W9KmOa7VjPNk7HwA0wkCQ-lNYMGdqBYr-J5Txu6FXWDQAKWZ9rFHJqTuBHBg
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png",[BD] Global TV
+https://prod-linear-media.toffeelive.com/cdn/live/globaltv/playlist.m3u8?edge-cache-token=Expires=1790219891~Starts=1790216291~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=o5tVXSo8PnMr6ZfLeaSFs_pfEAZ08rrcF-s6sM3JYUBLbxyUUjhXAT4W4ir5RjIctVwKwV5BjeOeWu2rCLX2DA
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png",[BD] Toffee Movies
+https://prod-linear-media.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8?edge-cache-token=Expires=1790219891~Starts=1790216291~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=o5tVXSo8PnMr6ZfLeaSFs_pfEAZ08rrcF-s6sM3JYUBLbxyUUjhXAT4W4ir5RjIctVwKwV5BjeOeWu2rCLX2DA
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png",[BD] Jamuna TV
+https://prod-linear-media.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8?edge-cache-token=Expires=1790219892~Starts=1790216292~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=L4qHcxMEzVWwFIjalZyE8Wj08SreAkbA5aewPSW08N0GXWnmw4klo9wrSY4ng8q3FRkR4iZ7ktiDBcP0oscnAQ
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png",[BD] Rajdhani TV
+https://prod-linear-media.toffeelive.com/cdn/live/rajdhani_tv/playlist.m3u8?edge-cache-token=Expires=1790219892~Starts=1790216292~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=L4qHcxMEzVWwFIjalZyE8Wj08SreAkbA5aewPSW08N0GXWnmw4klo9wrSY4ng8q3FRkR4iZ7ktiDBcP0oscnAQ
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png",[BD] Bangla TV
+https://prod-linear-media.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8?edge-cache-token=Expires=1790219893~Starts=1790216293~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=qC3tvAT4HkSI4ab_JSlrcDF-I_-7G7iwiuSU2vpmWG-5-sTOD3Xk-fqtlkG40kxleELmgSlPr3O2wv84_gRkAQ
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ES_cZZsBNnOkwJLW1Oz1/posters/b872b8f5-cb6b-45a1-a1cd-7609df51d614.png",[BD] Independent TV
+https://prod-linear-media.toffeelive.com/cdn/live/independent_tv/playlist.m3u8?edge-cache-token=Expires=1790219894~Starts=1790216294~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=pi_opoGu9OtdbIcL6qe2vx6Byxb5y_oe-41Nju15PbpZftRZBwm2NdcY6lfsW82hTzAMBzeDtHbi2vU_T0C1Ag
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/WyPuDJsBEef-9-uVUA_z/posters/ea20055c-a824-443c-8083-ce8e2da8b922.png",[BD] Channel S
+https://prod-linear-media.toffeelive.com/cdn/live/channel_s_tv/playlist.m3u8?edge-cache-token=Expires=1790219894~Starts=1790216294~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=pi_opoGu9OtdbIcL6qe2vx6Byxb5y_oe-41Nju15PbpZftRZBwm2NdcY6lfsW82hTzAMBzeDtHbi2vU_T0C1Ag
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/PS_La5oBNnOkwJLWLRN_/posters/e8c444fd-ee3b-4bf3-bb0a-f969bc295f82.png",[BD] Ekattor TV
+https://prod-linear-media.toffeelive.com/cdn/live/ekattor_tv/playlist.m3u8?edge-cache-token=Expires=1790219895~Starts=1790216295~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=Mfv2r6j6mqaV6Rw4cvV74eIYK5cDtzlE1DMdpSy7DBGPhQgg4_jy4N9EznD0-mbu1SfdVADCqVeZeQbzUuLTDg
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png",[BD] Ananda TV
+https://prod-linear-media.toffeelive.com/cdn/live/anandatv/playlist.m3u8?edge-cache-token=Expires=1790219895~Starts=1790216295~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=Mfv2r6j6mqaV6Rw4cvV74eIYK5cDtzlE1DMdpSy7DBGPhQgg4_jy4N9EznD0-mbu1SfdVADCqVeZeQbzUuLTDg
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png",[BD] Bijoy TV
+https://prod-linear-media.toffeelive.com/cdn/live/bijoytv/playlist.m3u8?edge-cache-token=Expires=1790219896~Starts=1790216296~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=oaKxTga2xSFVXOrg8HxAZ8ajYwdJWOM2onrr9uCziQEfvEO41N7xR4nCqyVhkfC8xUCWYrz-sHzHaTz53Uc6Cg
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/jehEA54BIxFjn23xAmdw/posters/2c276556-cbcd-4467-b627-4394bb20f250.png",[BD] Islamic TV
+https://prod-linear-media.toffeelive.com/cdn/live/islamic_tv/playlist.m3u8?edge-cache-token=Expires=1790219896~Starts=1790216296~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=oaKxTga2xSFVXOrg8HxAZ8ajYwdJWOM2onrr9uCziQEfvEO41N7xR4nCqyVhkfC8xUCWYrz-sHzHaTz53Uc6Cg
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/MyK__poBEef-9-uVmf5l/posters/1eadef5b-28e7-4dc2-b42f-c67a3357c9a0.png",[BD] Asian TV
+https://prod-linear-media.toffeelive.com/cdn/live/asian_tv/playlist.m3u8?edge-cache-token=Expires=1790219897~Starts=1790216297~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=9bNZHlY7GuBsbGoFxg0JcOXXqLNVrOhkEdQ5heRT-rt8cDb9OJVIJX69AJ1cCyRn6di33EjY-wRmzWuKqhxMAg
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png",[BD] Desh TV
+https://prod-linear-media.toffeelive.com/cdn/live/desh_tv/playlist.m3u8?edge-cache-token=Expires=1790219897~Starts=1790216297~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=9bNZHlY7GuBsbGoFxg0JcOXXqLNVrOhkEdQ5heRT-rt8cDb9OJVIJX69AJ1cCyRn6di33EjY-wRmzWuKqhxMAg
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png",[BD] Nexus TV
+https://prod-linear-media.toffeelive.com/cdn/live/nexus_tv/playlist.m3u8?edge-cache-token=Expires=1790219898~Starts=1790216298~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=WGXWHk4-lLBWFN3mWzHAOpJ3LRdHMegZGeoDkjqDEGYcD_u7q5pJx66HFVIgX1ITfB1O7PiONKL0-F2wSndqCQ
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-Xz3PJwBcqxnFHJBDAlE/posters/fecea361-8b60-4aeb-a530-6e27eee8178a.png",[BD] Mohona TV
+https://prod-linear-media.toffeelive.com/cdn/live/mohona_tv/playlist.m3u8?edge-cache-token=Expires=1790219898~Starts=1790216298~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=WGXWHk4-lLBWFN3mWzHAOpJ3LRdHMegZGeoDkjqDEGYcD_u7q5pJx66HFVIgX1ITfB1O7PiONKL0-F2wSndqCQ
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/CXz4PJwBcqxnFHJBPwrG/posters/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png",[BD] Movie Bangla
+https://prod-linear-media.toffeelive.com/cdn/live/movie_bangla/playlist.m3u8?edge-cache-token=Expires=1790219899~Starts=1790216299~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=mnbEdOPpRwYqm3i7FGh7nXH46BiCsE_qtDWzOUDhBtrgdUc0ZAK5rqhx62c2yBq8BlGb0NI1NauJfBhqJfzSAg
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",[BD] WC Match Recap
+https://prod-linear-media.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8?edge-cache-token=Expires=1790219901~Starts=1790216301~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=XpROo8QNRpdtxBw8YZY4JToaga4Q-pg7b4RAe70tehmdSVmT5O5CnqBwgf8dHOEt2Y0o1vdQlpsQKgP56vIkDg
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",[BD] Sony Ten Cricket
+https://prod-linear-media.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8?edge-cache-token=Expires=1790219903~Starts=1790216303~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=0MSLTt4e0wgBInpRhIXNOoUVnACNjweYP40_NxYoK4WG-F09RcW3mwZDHucncDV7V6fElo52xCVkRU9VI-PRDQ
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ii5_-JQBv9knK3AHLDV3/posters/d961cc87-81b6-4b30-8414-8c0af2774818.webp",[BD] Sony MAX 2
+https://prod-linear-media.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8?edge-cache-token=Expires=1790219907~Starts=1790216307~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=gYyLF2PRh-nimRCv-6bNGsH3YLKYeyFKYGlVKQAnq2RG8LUM5gMHlcQt4o2_nA5zcMdMN4JR1iv_wI617rZzCA
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp",[BD] Sony BBC Earth HD
+https://prod-linear-media.toffeelive.com/cdn/live/sonybbc_earth_hd/playlist.m3u8?edge-cache-token=Expires=1790219917~Starts=1790216317~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=4nFsuhcSf-DhyZS2ikR_-6xz-jTHUxJdJqutNsLAcQa565c-J4J4QtiyOSWyGm4k2UysjO4tDOJFNrsuT7jCDA
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",[BD] Sony YAY
+https://prod-linear-media.toffeelive.com/cdn/live/sonyyay/playlist.m3u8?edge-cache-token=Expires=1790219923~Starts=1790216323~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiNjkyZjU2OWQtNzE2Mi00MDcwLWEwYTktNDA0MWYwMTQxMWQ1In0~Signature=1ZE40gE6Tup8MGP39HB4VMle-nB3GGv4yQUIbECEA3PgC7ziC6-g9H95jC_o1HTwOjFbczJAkXmRY1PVRJnMDQ
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="Sports",Star Sports 1
+https://cdn5.zohanayaan.com:1686/hls/star1in.m3u8?md5=RX1vpd0VFguckw2ZTknqAg&expires=1790235323
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png" group-title="Sports",Star Sports 1 Hindi
+https://cdn7.zohanayaan.com:1686/hls/starhindi.m3u8?md5=xHDj_hk0_1kiVQ3v-YzWOA&expires=1790235323
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png" group-title="Sports",PTV Sports
+https://cdn9.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=1S9iHp7Gqyp2pRrW968sFA&expires=1790235323
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
+https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=3aB8tUnZWK_reQKRWeniWA&expires=1790235323
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
+https://cdn9.zohanayaan.com:1686/hls/willowextra.m3u8?md5=4sYl2EfFZzP8YCtdveEdgw&expires=1790235323
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/10-by-xfireflix.png" group-title="Sports",Ten Sports
+https://cdn8.zohanayaan.com:1686/hls/tenspk.m3u8?md5=oyD7juNqNHRkxbnRI-aTmg&expires=1790235324
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
+https://cdn4.zohanayaan.com:1686/hls/asportshd.m3u8?md5=oyoumJ7QLgcnGxAqTRFMIA&expires=1790235324
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png" group-title="Sports",Sky Sports Cricket
+https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=wClKH4JnTbG2rI53skVt2A&expires=1790235324
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/18-by-xfireflix.png" group-title="Sports",Sky Sports Main Event
+https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=oFRuZi62Cl_EBx2Y9Y3usQ&expires=1790235324
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="Sports",TNT 1
+https://cdn3.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=IkX8NR2TlS4HrHwe1PskJw&expires=1790235324
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="Sports",TNT 2
+https://cdn6.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=ZVd8MBRLs_UftrHaDnJTtg&expires=1790235324
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="Sports",TNT 3
+https://cdn5.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=zmDmgX8qlRjV8Z6bZp_Htw&expires=1790235324
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="Sports",TNT 4
+https://cdn7.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=Eh41_EJ4HDpHeFdaknnJCQ&expires=1790235324
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 1
+https://cdn10.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=vSTJ7ljQ94HfIt0AydGbGA&expires=1790235324
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 2
+https://cdn1.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=eIF3_zJy6Ld8zjlOTlmYbQ&expires=1790235325
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 3
+https://cdn4.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=mYf3lUTlPYX5HxEWy17q3A&expires=1790235325
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 4
+https://cdn7.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=GkH87YgQ82wy-FNOvgYdHg&expires=1790235325
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 5
+https://cdn1.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=MVWdu6MnGY0GQ7Q1kkhiyg&expires=1790235325
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport 6 Nz
+https://cdn9.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=gNY87Z8ww45_xcVYvql5xg&expires=1790235325
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 7
+https://cdn7.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=BZaiNdhJqxj783Pg2-CAjg&expires=1790235325
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 8
+https://cdn10.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=pGtTcd89TL6zoxwsUuO_Tw&expires=1790235325
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 9
+https://cdn3.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=Mo5vKNIvo55SsYFJh6VYBA&expires=1790235325
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png" group-title="Sports",Sky Cinema
+https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=oFRuZi62Cl_EBx2Y9Y3usQ&expires=1790235324
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829332.png" group-title="Sports",Sky Sports Action
+https://cdn4.zohanayaan.com:1686/hls/skysact.m3u8?md5=QtURkYJI8UMIAcZKA1Fg7g&expires=1790235326
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008055327.png" group-title="Sports",Sky Sports Golf
+https://cdn5.zohanayaan.com:1686/hls/skysgol.m3u8?md5=lCc57qKhyaB-0xPtoMmlVQ&expires=1790235326
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/43-by-xfireflix.png" group-title="Sports",Sky Sports Premier League
+https://cdn7.zohanayaan.com:1686/hls/skysprem.m3u8?md5=0tBPrwjbuAu_TL86CKNjRA&expires=1790235326
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/44-by-xfireflix.png" group-title="Sports",Sky Sports Football
+https://cdn3.zohanayaan.com:1686/hls/skysfott.m3u8?md5=HxWOdpfh4UP0vwwf2idMFA&expires=1790235326
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008347584.png" group-title="Sports",Sky Sports Plus
+https://cdn9.zohanayaan.com:1686/hls/skysare.m3u8?md5=eC6vcuT2UT_N5iTZoqXOHA&expires=1790235326
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008468637.png" group-title="Sports",Sky Sports F1
+https://cdn2.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=Vu0iMmwboofhnOa1d7NYmg&expires=1790235326
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/19-by-xfireflix.png" group-title="Sports",LaLiGA
+https://cdn7.zohanayaan.com:1686/hls/laligauk.m3u8?md5=wt5ia4BWupquJGCF5TY3Tw&expires=1790235326
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png" group-title="Sports",Premier Sports 1
+https://cdn6.zohanayaan.com:1686/hls/premieruk.m3u8?md5=QtRC6YKWkvrjn72O7yUXbA&expires=1790235326
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png" group-title="Sports",Premier Sports 2
+https://cdn10.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=IWavcleA091nE_vYcXfbpQ&expires=1790235326
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/34-by-xfireflix.png" group-title="Sports",Super Football
+https://cdn10.zohanayaan.com:1686/hls/superfotball.m3u8?md5=FViCv0qHtIcnr0b2H-AONQ&expires=1790235327
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008781606.png" group-title="Sports",Super Premier League
+https://cdn3.zohanayaan.com:1686/hls/superpremier.m3u8?md5=JnJrg0ssFWU_LaJdGXw3Yg&expires=1790235327
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008895589.png" group-title="Sports",Astro Cricket
+https://cdn8.zohanayaan.com:1686/hls/fox501.m3u8?md5=ZMq21FHw0-BjQ47ieRC1Ng&expires=1790235327
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png" group-title="Sports",ESPN 1
+https://cdn6.zohanayaan.com:1686/hls/espnusa.m3u8?md5=u2DUl7A6dpsHQO9IA3MiVw&expires=1790235327
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png" group-title="Sports",ESPN 2
+https://cdn7.zohanayaan.com:1686/hls/espn2.m3u8?md5=qC4NMq7dxkaBQhtcflRzzw&expires=1790235327
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829327.png" group-title="Sports",Sky Sports Arena
+https://cdn9.zohanayaan.com:1686/hls/skysare.m3u8?md5=eC6vcuT2UT_N5iTZoqXOHA&expires=1790235326
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/13-by-xfireflix.png" group-title="Sports",Sky Sports Mix
+https://cdn7.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=6IrlPGym0F9IBczAgMJqQQ&expires=1790235327
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745009085794.png" group-title="Sports",Sky Sports Tennis
+https://cdn1.zohanayaan.com:1686/hls/skystennis.m3u8?md5=JDHh5x69XMrSAQOBYVp1Kw&expires=1790235327
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/6-by-xfireflix.png" group-title="Sports",Fox Cricket 501 HD
+https://cdn8.zohanayaan.com:1686/hls/fox501.m3u8?md5=ZMq21FHw0-BjQ47ieRC1Ng&expires=1790235327
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1000173192-modified.png" group-title="Sports",Sony Sports3
+https://cdn2.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=nyb5FlZOgbiUexEYdS5cdQ&expires=1790235327
