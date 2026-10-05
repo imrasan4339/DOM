@@ -43060,3 +43060,6 @@ https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0410/ENG/std_lrh-800
 https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791185857~acl=/*~id=63022659420252912349435502929080~hmac=6954a4604cbd0fe063ec136f75915680d45fcaf99d5e29af5ae8caeb2a4374c9
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790826368427953_UNL2627_MD4_Republic_of_Ireland_vs_Israel_landscape_thumb.jpg" group-title="Live Event", Republic of Ireland vs Israel - 5 Oct 2026  [ENG] - UEFA Nations League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791185857~acl=/*~id=63022659420252912349435502929080~hmac=6954a4604cbd0fe063ec136f75915680d45fcaf99d5e29af5ae8caeb2a4374c9
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790826911383953_UNL2627_MD4_Cyprus_vs_Latvia_landscape_thumb.jpg" group-title="Live Event", Cyprus vs Latvia - 5 Oct 2026  [ENG] - UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive0510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791259107~acl=/*~id=39451119401998113741133492630293~hmac=2dcde14864ddb69b81e4ed33484742e5f0b04ca2751178741c1b3f2fe8c74d56
