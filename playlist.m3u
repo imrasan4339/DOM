@@ -43189,3 +43189,6 @@ https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1610/ENG/std_lrh-800
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792045973804742_DP-World_India-Championship_Day2_landscape_thumb.jpg" group-title="Live Event", DP World India Championship - Day 2 - 16 Oct 2026 [ENG] - DP World Tour
 https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792193598~acl=/*~id=42884646088445833725956749349888~hmac=3c04bb94a1c43d3dd3053d0723ccaba552357127b4c18153d7246bfa7962fac5
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045218534492_Asian_TOur_SJM_Macao_Open_Day3_live_landscape_thumb.jpg" group-title="Live Event", SJM Macao Open - Day 3 - 17 Oct 2026 [ENG] - Asian Tour 2026
+https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792255411~acl=/*~id=38404462278304952636473627835023~hmac=b57623b045a81246aad603148931eb94a93cfaeddb828317fbb1a250eb696a8f
