@@ -43434,3 +43434,6 @@ https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027325/1792938503930905_NZ_A_vs_IND_A_1st_Unofficial_Test_Day4_live_landscape_thumb.jpg" group-title="Live Event", 1st Unofficial Test - Day 4 - 27 Oct 2026 [ENG] - India A Tour of New Zealand
 https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793123713~acl=/*~id=44022112409620229976917230288855~hmac=d128f40d70012d95ca991004c76be850a623760a6e1280c4f0deee741ad176c7
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027437/1793076736608450_STCL26_SF_Gujarat_Royals_vs_Punjab_Falcons_landscape_thumb.jpg" group-title="Live Event", Gujarat Royals vs Punjab Falcons - Semi Final 2 - 28 Oct 2026 [HIN] - Salute Tiranga Cricket League (STCL) 2026
+https://sonydaime.akamaized.net/hls/live/2120300/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793213582~acl=/*~id=05621597835184676972432982304872~hmac=7c485c2a8f70ea7dedeace09ac87611cd110da84326e075e38560d96c84e42aa
