@@ -43466,3 +43466,6 @@ https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027792/1793356107617263_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day1_landscape_thumb.jpg" group-title="Live Event", 2nd Unofficial Test - Day 1 - 31 Oct 2026 [ENG] - India A Tour of New Zealand
 https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793454355~acl=/*~id=89841874099066518665895907284320~hmac=9edc22761fe7249c8d492ffd658a336a3356752b38f35c545227025ffe031f11
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027940/1793474597073145_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day2_landscape_thumb.jpg" group-title="Live Event", 2nd Unofficial Test - Day 2 - 1 Nov 2026 [ENG] - India A Tour of New Zealand
+https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793526408~acl=/*~id=40487477103923696471971770636196~hmac=87143ad8c745ef6ca5665ec41979ecb39412638a66d0ad1886e63d20dd8ca5b8
