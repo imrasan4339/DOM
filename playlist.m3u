@@ -43491,3 +43491,8 @@ https://sonydaime.akamaized.net/hls/live/2119921/cricodi_0111/HIN/std_lrh-800300
 https://sonydaime.akamaized.net/hls/live/2119951/cricodi_0111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793558580~acl=/*~id=93748624406473964709396117174193~hmac=7103907ffb5e504fe1b8c81eb3775bc5fd5e2db4215c91acc94ebea925874a76
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg" group-title="Live Event", 5th T20I - 1 Nov 2026 [TEL] - India Tour of New Zealand 2026
 https://sonydaime.akamaized.net/hls/live/2119941/cricodi_0111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793558580~acl=/*~id=93748624406473964709396117174193~hmac=7103907ffb5e504fe1b8c81eb3775bc5fd5e2db4215c91acc94ebea925874a76
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792882740618355_ISL26_KSHI_vs_FC_GOA_live_landscape_thumb.jpg" group-title="Live Event", Inter Kashi vs FC Goa - 1 Nov 2026 [ENG] - MG Indian Super League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793584863~acl=/*~id=71355141200521594597886686285347~hmac=607f45591bff3110e8060e51ca90ca96d2336b0bd39c70ccdba332506de228e0
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792882740618355_ISL26_KSHI_vs_FC_GOA_live_landscape_thumb.jpg" group-title="Live Event", Inter Kashi vs FC Goa - 1 Nov 2026 [HIN] - MG Indian Super League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2022316/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793584863~acl=/*~id=71355141200521594597886686285347~hmac=607f45591bff3110e8060e51ca90ca96d2336b0bd39c70ccdba332506de228e0
