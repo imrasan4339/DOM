@@ -43650,3 +43650,8 @@ https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0811/ENG/std_lrh
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956566466809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day3_landscape_thumb.jpg" group-title="Live Event", 3rd Unofficial Test - Day 3 - 9 Nov 2026 [ENG] - India A Tour of New Zealand
 https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794225574~acl=/*~id=84707238305701930614950884566082~hmac=487dab0a2b524bfee4a9a605b757deb1c6892dee21700f4dc9b9c2458a63de1f
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028502/1793999538076640_ACC_MensU19_Sri_Lanka_vs_Afghanistan_live_landscape_thumb.jpg" group-title="Live Event", Sri Lanka vs Afghanistan - 9 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794247380~acl=/*~id=79600648882011877840362618758409~hmac=09b12d6ef6076eb7cf08e24f879cdc00f7f36024531ead3ad42205a0627445bd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028501/1793998959168722_ACC_MensU19_Bangladesh_vs_Malaysia_live_landscape_thumb.jpg" group-title="Live Event", Bangladesh vs Malaysia - 9 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2120301/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794247380~acl=/*~id=79600648882011877840362618758409~hmac=09b12d6ef6076eb7cf08e24f879cdc00f7f36024531ead3ad42205a0627445bd
