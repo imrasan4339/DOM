@@ -43661,3 +43661,8 @@ https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956868102809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day4_landscape_thumb.jpg" group-title="Live Event", 3rd Unofficial Test - Day 4 - 10 Nov 2026 [ENG] - India A Tour of New Zealand
 https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794312171~acl=/*~id=64563512714125714311367043771658~hmac=fba1ebaf7286e56e65722d3e88d26f0ecc9007ae95abbf637324896fc458878d
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028503/1794000882307878_ACC_MensU19_India_vs_UAE_live_landscape_thumb.jpg" group-title="Live Event", India vs UAE - 10 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794339051~acl=/*~id=74967744822768609185680420024880~hmac=74429f1ab23f0bedf0c6e27adabdf302ec295ff6ca2025fb2c050985d3f182a7
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028504/179400165277048_ACC_MensU19_Pakistan_vs_Nepal_live_landscape_thumb.jpg" group-title="Live Event", Pakistan vs Nepal - 10 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794339051~acl=/*~id=74967744822768609185680420024880~hmac=74429f1ab23f0bedf0c6e27adabdf302ec295ff6ca2025fb2c050985d3f182a7
